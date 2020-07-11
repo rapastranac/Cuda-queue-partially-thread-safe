@@ -1,3 +1,3 @@
 # Cuda-queue-partially-thread-safe
 
-Does not lock threads within same warp.
+it does not lock threads within same warp.
